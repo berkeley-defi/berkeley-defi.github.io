@@ -24,9 +24,9 @@
 
 6-8pm PT Thu, starting April 1, Spring B.
 
-## Enrollment
+## Enrollment and Participation
 
-To get more information about the course and get instructor approval for taking the course, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScoLJB9CR5ZXcx6EgyYvgJkodQqslCEKpUh9GuhxOvrsuIytA/viewform).
+To get more information about the course or get instructor approval for taking the course, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScoLJB9CR5ZXcx6EgyYvgJkodQqslCEKpUh9GuhxOvrsuIytA/viewform).
 
 ## Course Description
 
