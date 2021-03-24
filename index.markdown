@@ -20,6 +20,10 @@
   </tbody>
 </table>
 
+## Volunteer Teaching Assistant
+
+Tianchen Liu
+
 ## Class Time
 
 6-8pm PT Thu, starting April 1, Spring B.
