@@ -55,7 +55,7 @@ We will cover a broad spectrum of topics including:
 
 5. Technologies and challenges for a more responsible data economy including data ownership, data monetization and valuation, controlled use and misuse of data
 
-6. Security issues and countermeasures in DeFi 
+6. Security issues and countermeasures in DeFi
 
 ## Participants
 
@@ -64,3 +64,16 @@ This course is primarily designed for PhD students and PhD students may take it 
 ## Grading
 
 Students who wish to audit must attend ALL sessions. Students who take it for credit will be required to also produce a short writeup on an aspect of the course that focuses on an open research question in this area. The writeup is due on May 14.
+
+## Course schedule (subject to change)
+
+Date | Topic
+-----|------
+04/01 | Introduction to traditional financial systems
+04/08 | Introduction to blockchain and smart contracts supporting DeFi applications
+04/15 | New ways to organize existing financial functions <ul><li>Part I: Stable coins</li><li>Part II: DEX (decentralized exchanges)</li></ul>
+04/22 | New ways to organize existing financial products <ul><li>Part I: Lending</li><li>Part II: Insurance</li></ul>
+04/29 | New ways to issue assets and trade risks: synthetics and derivatives, portfolio management 
+05/06 | Auditable privacy; decentralized identity (DID); decentralized reputation; related regulation
+05/13 | Information markets: oracles, prediction markets, data market, data valuation, data tokenization
+05/20 | Security issues and countermeasures in DeFi
