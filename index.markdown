@@ -71,8 +71,8 @@ Date | Topic
 -----|------
 04/01 | Introduction to traditional financial systems
 04/08 | Introduction to blockchain and smart contracts supporting DeFi applications
-04/15 | New ways to organize existing financial functions <ul><li>Part I: Stable coins</li><li>Part II: DEX (decentralized exchanges)</li></ul>
-04/22 | New ways to organize existing financial products <ul><li>Part I: Lending</li><li>Part II: Insurance</li></ul>
+04/15 | New ways to organize existing financial functions <br />Part I: Stable coins<br />Part II: DEX (decentralized exchanges)
+04/22 | New ways to organize existing financial products <br />Part I: Lending<br />Part II: Insurance
 04/29 | New ways to issue assets and trade risks: synthetics and derivatives, portfolio management 
 05/06 | Auditable privacy; decentralized identity (DID); decentralized reputation; related regulation
 05/13 | Information markets: oracles, prediction markets, data market, data valuation, data tokenization
