@@ -76,4 +76,4 @@ Date | Topic
 04/29 | New ways to issue assets and trade risks: synthetics and derivatives, portfolio management 
 05/06 | Auditable privacy; decentralized identity (DID); decentralized reputation; related regulation
 05/13 | Information markets: oracles, prediction markets, data market, data valuation, data tokenization
-05/20 | Security issues and countermeasures in DeFi
+Bonus | Security issues and countermeasures in DeFi
