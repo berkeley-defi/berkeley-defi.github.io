@@ -4,3 +4,6 @@ description: Spring 2021
 show_downloads: false
 github:
   is_project_page: false
+defaults:
+  - scope
+    path: ""
