@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # PHDBA 297T.4 Decentralized Finance Spring 2021
 
