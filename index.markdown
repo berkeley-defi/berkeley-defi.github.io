@@ -69,9 +69,9 @@ Students who wish to audit must attend ALL sessions. Students who take it for cr
 
 ## Course schedule (subject to change)
 
-Date | Topic
+Date | Topic | Files
 -----|------
-04/01 | Introduction to traditional financial systems
+04/01 | Introduction to traditional financial systems | [Dawn's slides](./assets/defi-s21-lec1-overview.pdf)
 04/08 | Introduction to blockchain and smart contracts supporting DeFi applications
 04/15 | New ways to organize existing financial functions <br />Part I: Stable coins<br />Part II: DEX (decentralized exchanges)
 04/22 | New ways to organize existing financial products <br />Part I: Lending<br />Part II: Insurance
