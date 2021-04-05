@@ -75,8 +75,8 @@ Students who wish to audit must attend ALL sessions. Students who take it for cr
 Date | Topic | Files | Readings
 -----|------|-----
 04/01 | Introduction to traditional financial systems | [Dawn's slides](./assets/defi-s21-lec1-overview.pdf)
-04/08 | Introduction to blockchain and smart contracts supporting DeFi applications
-04/15 | New ways to organize existing financial functions <br />Part I: Stable coins<br />Part II: DEX (decentralized exchanges) | | [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380) <br/> [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)
+04/08 | Part I: Introduction to blockchain and smart contracts supporting DeFi applications<br />Stable Coins
+04/15 | New ways to organize existing financial functions / DEX (decentralized exchanges) | | [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380) <br/> [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)
 04/22 | New ways to organize existing financial products <br />Part I: Lending<br />Part II: Insurance
 04/29 | New ways to issue assets and trade risks: synthetics and derivatives, portfolio management 
 05/06 | Auditable privacy; decentralized identity (DID); decentralized reputation; related regulation
