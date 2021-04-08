@@ -75,7 +75,7 @@ Students who wish to audit must attend ALL sessions. Students who take it for cr
 Date | Topic | Files | Readings
 -----|------|-----
 04/01 | Introduction to traditional financial systems | [Dawn's slides](./assets/defi-s21-lec1-overview.pdf)
-04/08 | Part I: Introduction to blockchain and smart contracts supporting DeFi applications<br />Part II: Stable Coins
+04/08 | Part I: Introduction to blockchain and smart contracts supporting DeFi applications <br/> Dawn: short intro on blockchain & smart contracts <br/> Lewis [DeFi SoK](https://arxiv.org/abs/2101.08778) <br/> Part II: Stable coins <br/> Rene Reinsberg: Introduction on Stable Coins <br/> Ariah Klages-Mundt: [In search of stability](https://arxiv.org/abs/2006.12388) <br/> Ye Li: Managing Stablecoins: [Optimal Strategies, Regulation, and Transaction Data as Productive Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757083) <br/> Christine: Stablecoins vs. traditional payments | [DeFi SoK](https://arxiv.org/abs/2101.08778)<br/> [In search of stability](https://arxiv.org/abs/2006.12388) <br/> [Optimal Strategies, Regulation, and Transaction Data as Productive Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757083)
 04/15 | New ways to organize existing financial functions / DEX (decentralized exchanges) | | [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380) <br/> [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)
 04/22 | New ways to organize existing financial products <br />Part I: Lending<br />Part II: Insurance
 04/29 | New ways to issue assets and trade risks: synthetics and derivatives, portfolio management 
