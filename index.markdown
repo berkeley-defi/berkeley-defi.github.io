@@ -8,7 +8,7 @@ layout: default
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/University_of_California%2C_Berkeley_logo.svg/1200px-University_of_California%2C_Berkeley_logo.svg.png">
 </p>
 
-For information about future offering of the DeFi course, please join the berkeley-blockchain@googlegroups.com mailing list.
+For information about future offering of the DeFi course, please join the [berkeley-blockchain@googlegroups.com](https://groups.google.com/g/berkeley-blockchain) mailing list.
 
 ## Instructors
 
