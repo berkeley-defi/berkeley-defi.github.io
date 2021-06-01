@@ -11,8 +11,8 @@ For information about future offering of the DeFi course, please join the [berke
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img style="object-fit:cover" width=132 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
+      <th style="width: 25%;"><img background-size=cover width=132 height=200 src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
