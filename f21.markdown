@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS194-177/294-177: Decentralized Finance
+title: "CS194-177/294-177: Decentralized Finance"
 permalink: /f21
 redirect_from:
   - /
