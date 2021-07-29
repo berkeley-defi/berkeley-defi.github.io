@@ -7,3 +7,5 @@ github:
 defaults:
   - scope:
     path: ""
+plugins:
+  - jekyll-redirect-from
