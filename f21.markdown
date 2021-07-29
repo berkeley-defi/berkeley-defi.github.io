@@ -15,25 +15,25 @@ redirect_from:
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
+      <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://arthurgervais.com/images/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th> -->
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="https://vcresearch.berkeley.edu/sites/default/files/styles/faculty_photo_full/public/2018-01/christine_parlour.jpg?itok=MubDXnwu" alt="Christine Parlour"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
+      <!-- <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
       <td><a href="https://arthurgervais.com/">Arthur Gervais</a></td>
-      <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td>
+      <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td> -->
       <td>Christine Parlour</td>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
     </tr>
     <tr>
-      <td>Stanford</td>
+      <!-- <td>Stanford</td>
       <td>Imperial College London</td>
-      <td>UIUC</td>
+      <td>UIUC</td> -->
       <td>UC Berkeley</td>
       <td>UC Berkeley</td>
     </tr>
@@ -136,7 +136,7 @@ Thu 10:30am-12:30pm PT weekly
     </tr>
     <tr>
       <td> 12/09 (Bonus) </td>
-      <td> Information/Data Markets </td>
+      <td> Regulations and Security Frameworks </td>
     </tr>
 
   </tbody>
