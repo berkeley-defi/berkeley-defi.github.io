@@ -40,10 +40,14 @@ redirect_from:
   </tbody>
 </table>
 
-<!-- - [Dan Boneh](https://crypto.stanford.edu/~dabo/) (Stanford)
-- [Andrew Miller](http://soc1024.ece.illinois.edu/) (UIUC)
-- Christine Parlour (UC Berkeley)
-- [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) (UC Berkeley) -->
+## Class Time
+Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
+
+## Enrollment and Participation
+For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177.
+
+## Grading
+The class will have short written homework and hands-on labs. In addition, each student will participate in a group project of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi.
 
 ## Course Description
 
@@ -62,18 +66,6 @@ Summarizing, we will cover a broad spectrum of topics, including:
 3. To link blockchains with financial information from the real-world, we will provide a deep-dive into oracles. We will discuss decentralized reputation, identities and proof of properties. Because most DeFi is transparently readable, including transaction amounts, fees, dates/times, etc, privacy plays an increasingly important role in DeFi. We will cover various privacy technologies including zero-knowledge proofs and their applications in DeFi. We will also discuss various attempts at how to enforce data ownership, data monetization and valuation as well as controlled use and misuse of data.
 
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
-
-## Class Time
-Synchronous lecture: 10:30am-12:30pm PT Thu, starting Aug 26; or follow online asynchronously with video lectures
-
-## Enrollment and Participation
-For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177.
-
-### Other info
-To get more information about the course, please join this googlegroup: defi-mooc-f21@googlegroups.com. To help us learn more about the background of the students, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc_2wP7x2PwS5fngY-USSYJWRNMIxAPVP9okTW6GFfCxRbCTA/viewform).
-
-## Grading
-The class will have short written homework and hands-on labs. In addition, each student will participate in a group project of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi.
 
 ## Syllabus (subject to change)
 
