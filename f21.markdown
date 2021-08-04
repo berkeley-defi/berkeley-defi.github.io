@@ -54,11 +54,11 @@ The class will have short written homework and hands-on labs. In addition, each 
 
 ### Timeline
 
-| Group formation | 9/09 |
-| Project proposal | 9/30 |
-| Project milestone | 10/28 |
+| Group formation | 9/13 |
+| Project proposal | 10/04 |
+| Project milestone | 11/21 |
 | Project presentation | 12/02 |
-| Project final report | 12/09 |
+| Project final report | 12/13 |
 
 ## Course Description
 
