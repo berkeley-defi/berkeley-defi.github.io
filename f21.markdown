@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- # Decentralized Finance -->
 
-# CS294-177/CS194-177/PHDBA 297T.1: Decentralized Finance
+# CS294-177/CS194-177/PHDBA 297T.1/MFE 230T.3: Decentralized Finance
 
 ## Instructors
 
