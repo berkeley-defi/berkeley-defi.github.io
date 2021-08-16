@@ -52,8 +52,12 @@ The class will have short written homework and hands-on labs. In addition, each 
 ### Timeline
 
 | Group formation | 9/13 |
+| Lab 1 out | 10/01 |
 | Project proposal | 10/04 |
+| Lab 1 due | 10/11 |
 | Project milestone | 11/01 |
+| Lab 2 out | 11/02 |
+| Lab 2 due | 11/22 |
 | Project presentation | 12/02 |
 | Project final report | 12/13 |
 
