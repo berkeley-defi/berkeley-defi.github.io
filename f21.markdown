@@ -47,7 +47,15 @@ Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. To get more information about the course, please join the Google Group [berkeley-defi-f21@googlegroups.com](https://groups.google.com/g/berkeley-defi-f21).
 
 ## Grading
-The class will have short written homework and hands-on labs. In addition, each student will participate in a group project of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi.
+The class will have short written homework and hands-on labs. In addition, each student will participate in a group project **(group size: 3-4 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi.
+
+| Class participation | 10% |
+| Quiz | 10% |
+| Lab 1 | 5% |
+| Lab 2 | 15% |
+| Project proposal | 5% |
+| Project milestone | 15% |
+| Project presentation and final report | 40% |
 
 ### Timeline
 
