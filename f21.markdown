@@ -101,71 +101,94 @@ Summarizing, we will cover a broad spectrum of topics, including:
   <thead>
       <th style="width: 5%;">Date</th>
       <th style="width: 40%;"> Topic </th>
+      <th style="width: 20%;"> Recommended reading </th>
   </thead>
   <tbody>
     <tr>
       <td> 08/26 </td>
       <td> Introduction and Overview of DeFi </td>
+      <td> 
+        <ul style="margin-bottom: 0;">
+          <li> <a href="/assets/reading/arthur-cefi-vs-defi-2106.08157.pdf"> CeFi vs. DeFi </a> </li>
+          <li> <a href="/assets/reading/defi-sok-ariah-2101.08778.pdf"> DeFi SoK </a> </li>
+          <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a> </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td> 09/02 </td>
       <td> Introduction to Blockchain Technology </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 09/09 </td>
       <td> Introduction to Smart Contracts </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 09/16 </td>
       <td> Introduction to Traditional Finance </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 09/23 </td>
       <td> Stablecoins </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 09/30 </td>
       <td> DEX </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 10/07 </td>
       <td> Decentralized Lending </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 10/14 </td>
       <td> Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 10/21 </td>
       <td> Oracles </td>
+      <td> </td>
     </tr>
     <tr> 
       <td> 10/28 </td>
       <td> Privacy in DeFi; Auditable Privacy; ZKP </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 11/04 </td>
       <td> Decentralized Identities </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 11/11 </td>
       <td> No Class (Veterans Day) </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 11/18 </td>
       <td> DeFi Security I </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 11/25 </td>
       <td> No Class (Thanksgiving) </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 12/02 </td>
       <td> DeFi Security II </td>
+      <td> </td>
     </tr>
     <tr>
       <td> 12/09 (Bonus) </td>
       <td> Regulations and Legal Frameworks </td>
+      <td> </td>
     </tr>
 
   </tbody>
