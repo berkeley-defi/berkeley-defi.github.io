@@ -10,7 +10,7 @@ redirect_from:
 
 # CS294-177/CS194-177/PHDBA 297T.1/MFE 230T.3: Decentralized Finance
 
-- [Zoom link](https://berkeley.zoom.us/j/95377826038?pwd=SEJqdEZ0UlNNNis5UGZRZ0RQRS9Ydz09) for the class: [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/95377826038?pwd=SEJqdEZ0UlNNNis5UGZRZ0RQRS9Ydz09)
+- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class: [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/95377826038?pwd=SEJqdEZ0UlNNNis5UGZRZ0RQRS9Ydz09)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
 - For private-matter questions, please [send us an email](mailto:berkeley-defi-f21-info@googlegroups.com). 
 
