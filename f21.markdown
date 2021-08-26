@@ -11,7 +11,6 @@ redirect_from:
 # CS294-177/CS194-177/PHDBA 297T.1/MFE 230T.3: Decentralized Finance
 
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
-- [Lecture 1 Premiere](https://youtu.be/UariFBhF-_o) and [Lecture 1 Playlist](https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL).
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
 - For private-matter questions, please [send us an email](mailto:berkeley-defi-f21-info@googlegroups.com). 
 
@@ -101,97 +100,49 @@ Summarizing, we will cover a broad spectrum of topics, including:
 ## Syllabus (subject to change)
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 5%;">Date</th>
-      <th style="width: 40%;"> Topic </th>
-      <th style="width: 20%;"> Recommended reading </th>
+      <th style="width: 10%;">Date</th>
+      <th style="width: 10%;"> Quiz </th>
+      <th style="width: 50%;"> Topic </th>
+      <th style="width: 30%;"> Recommended reading </th>
   </thead>
   <tbody>
+    {% for row in site.data.syllabus %}
     <tr>
-      <td> 08/26 </td>
-      <td> Introduction and Overview of DeFi </td>
+      <td> {{ row.date }} </td>
       <td> 
+        {% if row.quiz %} 
+          <a href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
+        {% else %}
+          TBD
+        {% endif %}
+      </td>
+      <td> {{ row.topic }} 
+        <br>
+        {% if row.youtube_premiere %}
+          [<a href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+        {% endif %}
+        {% if row.youtube_playlist %}
+          [<a href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+        {% endif %}
+        {% if row.slides %}
         <ul style="margin-bottom: 0;">
-          <li> <a href="/assets/reading/arthur-cefi-vs-defi-2106.08157.pdf"> CeFi vs. DeFi </a> </li>
-          <li> <a href="/assets/reading/defi-sok-ariah-2101.08778.pdf"> DeFi SoK </a> </li>
-          <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a> </li>
+          {% for s in row.slides %}
+          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          {% endfor %}
         </ul>
+        {% endif %}
+      </td>
+      <td> 
+        {% if row.reading %}
+        <ul style="margin-bottom: 0;">
+          {% for r in row.reading %}
+          <li> <a href="/assets/material/{{r.file}}"> {{ r.name }} </a> </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </td>
     </tr>
-    <tr>
-      <td> 09/02 </td>
-      <td> Introduction to Blockchain Technology </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 09/09 </td>
-      <td> Introduction to Smart Contracts </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 09/16 </td>
-      <td> Introduction to Traditional Finance </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 09/23 </td>
-      <td> Stablecoins </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 09/30 </td>
-      <td> DEX </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 10/07 </td>
-      <td> Decentralized Lending </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 10/14 </td>
-      <td> Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 10/21 </td>
-      <td> Oracles </td>
-      <td> </td>
-    </tr>
-    <tr> 
-      <td> 10/28 </td>
-      <td> Privacy in DeFi; Auditable Privacy; ZKP </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 11/04 </td>
-      <td> Decentralized Identities </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 11/11 </td>
-      <td> No Class (Veterans Day) </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 11/18 </td>
-      <td> DeFi Security I </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 11/25 </td>
-      <td> No Class (Thanksgiving) </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 12/02 </td>
-      <td> DeFi Security II </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> 12/09 (Bonus) </td>
-      <td> Regulations and Legal Frameworks </td>
-      <td> </td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>
 

@@ -1,0 +1,49 @@
+- date: 08/26
+  topic: Introduction and Overview of DeFi
+  youtube_premiere: https://youtu.be/UariFBhF-_o
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  quiz:
+    name: Quiz 1
+    link: https://forms.gle/29iVNtDaiEnRdum36
+  slides: 
+    - name: Course Overview
+      file: lec1.0-dawn-intro.pdf
+    - name: Introduction and Overview of DeFi
+      file: lec1-dawn-defi-mooc-intro-defi-f21.pdf
+  reading:
+    - name: CeFi vs. DeFi
+      file: arthur-cefi-vs-defi-2106.08157.pdf
+    - name: DeFi SoK
+      file: defi-sok-ariah-2101.08778.pdf
+    - name: Schär, F., 2021
+      file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
+- date: 09/02
+  topic: Introduction to Blockchain Technology
+- date: 09/09
+  topic: Introduction to Smart Contracts
+- date: 09/16
+  topic: Introduction to Traditional Finance
+- date: 09/23
+  topic: Stablecoins
+- date: 09/30
+  topic: DEX
+- date: 10/07
+  topic: Decentralized Lending
+- date: 10/14
+  topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
+- date: 10/21
+  topic: Oracles
+- date: 10/28
+  topic: Privacy in DeFi; Auditable Privacy; ZKP
+- date: 11/04
+  topic: Decentralized Identities
+- date: 11/11
+  topic: No Class (Veterans Day)
+- date: 11/18
+  topic: DeFi Security I
+- date: 11/25
+  topic: No Class (Thanksgiving)
+- date: 12/02
+  topic: DeFi Security II
+- date: 12/09 (Bonus)
+  topic: Regulations and Legal Frameworks
