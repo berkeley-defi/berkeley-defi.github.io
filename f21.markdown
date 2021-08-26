@@ -98,13 +98,11 @@ Summarizing, we will cover a broad spectrum of topics, including:
 4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
 
 ## Syllabus (subject to change)
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
       <th style="width: 5%;">Date</th>
       <th style="width: 40%;"> Topic </th>
       <th style="width: 20%;"> Recommended reading </th>
-      <th style="width: 20%;"> Links </th>
   </thead>
   <tbody>
     <tr>
@@ -114,11 +112,7 @@ Summarizing, we will cover a broad spectrum of topics, including:
         <ul style="margin-bottom: 0;">
           <li> <a href="/assets/reading/arthur-cefi-vs-defi-2106.08157.pdf"> CeFi vs. DeFi </a> </li>
           <li> <a href="/assets/reading/defi-sok-ariah-2101.08778.pdf"> DeFi SoK </a> </li>
-          <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a>        </li>
-      <td>
-         <ul style="margin-bottom: 0;">
-           <li> <a href="https://youtu.be/UariFBhF-_o"> Lecture 1 Premiere </a> </li>
-           <li> <a href="https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL"> Lecture 1 Playlist </a> </li>
+          <li> <a href="/assets/reading/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf"> Schär, F., 2021 </a> </li>
         </ul>
       </td>
     </tr>
@@ -197,7 +191,6 @@ Summarizing, we will cover a broad spectrum of topics, including:
       <td> Regulations and Legal Frameworks </td>
       <td> </td>
     </tr>
-
   </tbody>
 </table>
 
