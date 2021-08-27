@@ -51,6 +51,13 @@ Vivek Nair; Nate Pola; Xiaoyuan Liu
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
 
+## Office Hour
+All times are in PST. There will be no office hours until the week of September 6th.
+
+| Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
+| Dawn Song (Professor) | 04:30pm-05:30pm Wed | Location TBD |
+| Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
+
 ## Enrollment and Participation
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. To get more information about the course, please join the Google Group [berkeley-defi-f21@googlegroups.com](https://groups.google.com/g/berkeley-defi-f21).
 
