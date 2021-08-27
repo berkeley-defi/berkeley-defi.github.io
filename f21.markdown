@@ -121,6 +121,14 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
 | Project milestone | 15% |
 | Project presentation and final report | 40% |
 
+### Quiz
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due at midnight on the day before the next lecture. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+
+### Group project
+
+Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish.
+
 ### Timeline
 
 | Group formation | 9/13 |
