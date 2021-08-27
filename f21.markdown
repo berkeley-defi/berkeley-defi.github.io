@@ -16,7 +16,7 @@ redirect_from:
 
 ## Instructors
 
-<table style="table-layout: fixed; font-size: 88%;">
+<table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
       <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
@@ -46,9 +46,7 @@ redirect_from:
 
 ## TAs
 
-- Nate Pola
-- Vivek Nair
-- Xiaoyuan Liu
+Vivek Nair; Nate Pola; Xiaoyuan Liu
 
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
