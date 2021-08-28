@@ -123,7 +123,7 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
 
 ### Quiz
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due at midnight on the day before the next lecture. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group project
 
