@@ -6,8 +6,8 @@
     name: Quiz 1
     link: https://forms.gle/29iVNtDaiEnRdum36
   slides: 
-    - name: Course Overview
-      file: lec1.0-dawn-intro.pdf
+    - name: Berkeley DeFi course logistics
+      file: lec1.2-berkeley-logistics-dawn.pdf
     - name: Introduction and Overview of DeFi
       file: lec1-dawn-defi-mooc-intro-defi-f21.pdf
   reading:
