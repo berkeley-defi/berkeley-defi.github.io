@@ -19,6 +19,15 @@
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
 - date: 09/02
   topic: Introduction to Blockchain Technology
+  reading:
+  - name: Lightning Network
+    link: https://lightning.network/lightning-network-paper.pdf
+  - name: Multi-Path Routing
+    link: https://arxiv.org/pdf/1910.01834.pdf
+  - name: Rollup
+    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+  - name: Bridges
+    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
 - date: 09/09
   topic: Introduction to Smart Contracts
 - date: 09/16
