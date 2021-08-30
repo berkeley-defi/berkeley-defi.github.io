@@ -100,7 +100,13 @@ For graduate students, please register for CS294-177; for undergraduate students
         {% if row.reading %}
         <ul style="margin-bottom: 0;">
           {% for r in row.reading %}
-          <li> <a href="/assets/material/{{r.file}}"> {{ r.name }} </a> </li>
+            {% if r.file %}
+              {% assign reading_link = '/assets/material/' | append: r.file %}
+            {% endif %}
+            {% if r.link %}
+              {% assign reading_link = r.link %}
+            {% endif %}
+          <li> <a href="{{reading_link}}"> {{ r.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
