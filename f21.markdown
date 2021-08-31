@@ -117,7 +117,7 @@ For graduate students, please register for CS294-177; for undergraduate students
 </table>
 
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-4 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
+The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
 
 | Class participation | 10% |
 | Weekly Quizzes | 10% |
@@ -134,6 +134,8 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 ### Group project
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish.
+
+The proposal should be within **2 pages**. The milestone report should be within **3 pages**. The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 
 ### Timeline
 
