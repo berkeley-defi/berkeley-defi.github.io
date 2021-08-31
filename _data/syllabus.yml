@@ -28,6 +28,8 @@
     link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
   - name: Bridges
     link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Bitcoin White Paper
+    file: bitcoin.pdf 
 - date: 09/09
   topic: Introduction to Smart Contracts
 - date: 09/16
