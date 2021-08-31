@@ -19,7 +19,6 @@
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
 - date: 09/02
   topic: Introduction to Blockchain Technology
-  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31
   slides:
   - name: Introduction to Blockchain Technology
     file: lec2-dan-tech-intro.pdf
