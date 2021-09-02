@@ -43,12 +43,12 @@ permalink: /f21_syllabus
         <ul style="margin-bottom: 0;">
           {% for r in row.reading %}
             {% if r.file %}
-              {% assign reading_link = '/assets/material/' | append: r.file %}
+              {% assign reading_link = 'https://berkeley-defi.github.io/assets/material/' | append: r.file %}
             {% endif %}
             {% if r.link %}
               {% assign reading_link = r.link %}
             {% endif %}
-          <li> <a target="_parent" href="https://berkeley-defi.github.io{{reading_link}}"> {{ r.name }} </a> </li>
+          <li> <a target="_parent" href="{{reading_link}}"> {{ r.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
