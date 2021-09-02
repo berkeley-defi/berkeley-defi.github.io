@@ -17,7 +17,7 @@ permalink: /f21_syllabus
       <td> {{ row.date }} </td>
       <td> 
         {% if row.quiz %} 
-          <a href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
+          <a target="_parent" href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
         {% else %}
           TBD
         {% endif %}
@@ -25,15 +25,15 @@ permalink: /f21_syllabus
       <td> {{ row.topic }} 
         <br>
         {% if row.youtube_premiere %}
-          [<a href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
+          [<a target="_parent" href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
         {% endif %}
         {% if row.youtube_playlist %}
-          [<a href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
+          [<a target="_parent" href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
         {% endif %}
         {% if row.slides %}
         <ul style="margin-bottom: 0;">
           {% for s in row.slides %}
-          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
@@ -48,7 +48,7 @@ permalink: /f21_syllabus
             {% if r.link %}
               {% assign reading_link = r.link %}
             {% endif %}
-          <li> <a href="{{reading_link}}"> {{ r.name }} </a> </li>
+          <li> <a target="_parent" href="https://berkeley-defi.github.io{{reading_link}}"> {{ r.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}
