@@ -62,59 +62,23 @@ All times are in PST. There will be no office hours until the week of September 
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. To get more information about the course, please join the Google Group [berkeley-defi-f21@googlegroups.com](https://groups.google.com/g/berkeley-defi-f21).
 
 ## Syllabus (subject to change)
-<table style="table-layout: fixed; font-size: 88%;">
-  <thead>
-      <th style="width: 10%;">Date</th>
-      <th style="width: 10%;"> Quiz </th>
-      <th style="width: 50%;"> Topic </th>
-      <th style="width: 30%;"> Recommended reading </th>
-  </thead>
-  <tbody>
-    {% for row in site.data.syllabus %}
-    <tr>
-      <td> {{ row.date }} </td>
-      <td> 
-        {% if row.quiz %} 
-          <a href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
-        {% else %}
-          TBD
-        {% endif %}
-      </td>
-      <td> {{ row.topic }} 
-        <br>
-        {% if row.youtube_premiere %}
-          [<a href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
-        {% endif %}
-        {% if row.youtube_playlist %}
-          [<a href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
-        {% endif %}
-        {% if row.slides %}
-        <ul style="margin-bottom: 0;">
-          {% for s in row.slides %}
-          <li> <a href="/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </td>
-      <td> 
-        {% if row.reading %}
-        <ul style="margin-bottom: 0;">
-          {% for r in row.reading %}
-            {% if r.file %}
-              {% assign reading_link = '/assets/material/' | append: r.file %}
-            {% endif %}
-            {% if r.link %}
-              {% assign reading_link = r.link %}
-            {% endif %}
-          <li> <a href="{{reading_link}}"> {{ r.name }} </a> </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+
+<iframe id="syllabus" src="/f21_syllabus" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('syllabus'));
+  };
+</script>
 
 ## Grading
 The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
