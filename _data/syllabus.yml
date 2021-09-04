@@ -40,13 +40,6 @@
     file: bitcoin.pdf 
 - date: 09/09
   topic: Introduction to Smart Contracts
-  reading:
-  - name: Smart Contracts: Formalizing and Securing Relationships on Public Networks
-    link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
-  - name: Ethereum White Paper
-    link: https://ethereum.org/en/whitepaper/
-  - name: Introduction to Smart Contracts (Solidity Documentation)
-    link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html 
 - date: 09/16
   topic: Introduction to Traditional Finance
 - date: 09/23
