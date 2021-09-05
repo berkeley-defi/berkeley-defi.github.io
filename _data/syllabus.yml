@@ -41,6 +41,9 @@
 - date: 09/09
   topic: Introduction to Smart Contracts
   youtube_premiere: https://youtu.be/eFUNq4Daevc
+  slides:
+  - name: Introduction to Smart Contracts
+    file: Lecture 3 Slides.pdf
   reading:
   - name: Smart Contracts: Formalizing and Securing Relationships on Public Networks
     link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
