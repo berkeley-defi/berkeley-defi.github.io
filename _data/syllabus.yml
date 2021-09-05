@@ -36,10 +36,18 @@
     link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
   - name: Bridges
     link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
-  - name: Bitcoin White Paper
+  - name: Bitcoin Whitepaper
     file: bitcoin.pdf 
 - date: 09/09
   topic: Introduction to Smart Contracts
+  youtube_premiere: https://youtu.be/eFUNq4Daevc
+  reading:
+  - name: Smart Contracts: Formalizing and Securing Relationships on Public Networks
+    link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
+  - name: Ethereum Whitepaper
+    link: https://ethereum.org/en/whitepaper/
+  - name: Introduction to Smart Contracts (Solidity Documentation)
+    link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
 - date: 09/16
   topic: Introduction to Traditional Finance
 - date: 09/23
