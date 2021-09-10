@@ -55,6 +55,8 @@
     link: https://ethereum.org/en/whitepaper/
   - name: Introduction to Smart Contracts (Solidity Documentation)
     link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
+  - name:
+    link: https://solidity-by-example.org/ 
 - date: 09/16
   topic: Introduction to Traditional Finance
 - date: 09/23
