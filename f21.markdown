@@ -57,6 +57,7 @@ All times are in PST. There will be no office hours until the week of September 
 | Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
 | Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
+| Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
 
 ## Enrollment and Participation
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. To get more information about the course, please join the Google Group [berkeley-defi-f21@googlegroups.com](https://groups.google.com/g/berkeley-defi-f21).
