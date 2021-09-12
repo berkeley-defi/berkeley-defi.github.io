@@ -59,17 +59,6 @@
     link: https://solidity-by-example.org/ 
 - date: 09/16
   topic: Introduction to Traditional Finance
-  reading:
-  - name: Money in the Modern Economy
-    link: https://www.dropbox.com/s/crgglvvn45mlpws/money-in-the-modern-economy-an-introduction.pdf?dl=0
-  - name: Money Creation in the Modern Economy
-    link: https://www.dropbox.com/s/n2g52n369o79fcl/money-creation-in-the-modern-economy.pdf?dl=0
-  - name: Measuring Trade Execution Costs in Financial Markets
-    link: https://cpb-us-w2.wpmucdn.com/people.smu.edu/dist/6/414/files/2020/07/Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
-  - name: Market Microstructure Survey
-    link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=218180
-  - name: Survey on Hedge Fund Performance
-    link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2650919
 - date: 09/23
   topic: Stablecoins
 - date: 09/30
