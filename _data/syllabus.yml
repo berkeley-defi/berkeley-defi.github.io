@@ -68,7 +68,8 @@
     file: money-creation-in-the-modern-economy.pdf
   - name: Measuring Trade Execution Costs in Financial Markets
     file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
-    
+  - name: Market Microstructure
+    file: Biais_Glosten_spatt.pdf
 - date: 09/23
   topic: Stablecoins
 - date: 09/30
