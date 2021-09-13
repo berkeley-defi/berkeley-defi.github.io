@@ -29,7 +29,7 @@
   slides:
   - name: Introduction to Blockchain Technology
     file: lec2-dan-tech-intro.pdf
-  - name: Lecture 2 Recap Slides
+  - name: Lecture 2 Recap
     file: Lecture 2 Recap Slides.pdf
   reading:
   - name: Lightning Network
