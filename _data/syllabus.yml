@@ -10,6 +10,8 @@
       file: lec1.2-berkeley-logistics-dawn.pdf
     - name: Introduction and Overview of DeFi
       file: lec1-dawn-defi-mooc-intro-defi-f21.pdf
+    - name: Lecture 1 Recap
+      file: Lecture 1 Recap Slides.pdf
   reading:
     - name: CeFi vs. DeFi
       file: arthur-cefi-vs-defi-2106.08157.pdf
