@@ -12,7 +12,6 @@ redirect_from:
 
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
-- For private-matter questions, please [send us an email](mailto:berkeley-defi-f21-info@googlegroups.com). 
 
 ## Instructors
 
@@ -60,7 +59,7 @@ All times are in PST. There will be no office hours until the week of September 
 | Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
 
 ## Enrollment and Participation
-For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. To get more information about the course, please join the Google Group [berkeley-defi-f21@googlegroups.com](https://groups.google.com/g/berkeley-defi-f21).
+For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
 
 ## Syllabus (subject to change)
 
