@@ -1,0 +1,21 @@
+---
+layout: blank
+title: "Premiere (latest)"
+permalink: /f21_premiere
+---
+
+{% for row in site.data.syllabus %}
+    {% if row.youtube_premiere %}
+        {% assign latest_premiere = row.youtube_premiere %}
+        {% assign latest_topic = row.topic %}
+        {% assign latest_date = row.date %}
+    {% endif %}
+{% endfor %}
+
+<section class="main-content">
+    <h3> Jumping to <b> {{ latest_topic }} </b> ( {{ latest_date }} ) premiere in 3 seconds. </h3>
+</section>
+
+<script>
+    setTimeout(function(){ window.location.href = "{{ latest_premiere }}"; }, 3000)
+</script>
