@@ -12,6 +12,7 @@ redirect_from:
 
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
+- <span style="color: red;">Do not email the course staff or TAs. For private matters, post a private question on [edstem](https://edstem.org/us/courses/7861/discussion/).</span>
 
 ## Instructors
 
