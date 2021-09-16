@@ -81,6 +81,9 @@
     file: Biais_Glosten_spatt.pdf
 - date: 09/23
   topic: Stablecoins
+  slides:
+  - name: Lecture 5
+    file: Lecture 5 Slides.pdf
   reading:
   - name: (In)Stability for the Blockchain
     file: (In)Stability for the Blockchain.pdf
