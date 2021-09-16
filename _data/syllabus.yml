@@ -52,8 +52,6 @@
   slides:
   - name: Introduction to Smart Contracts
     file: Lecture 3 Slides.pdf
-  - name: Lecture 3 Recap
-    file: Lecture 3 Recap Slides.pdf
   reading:
   - name: Formalizing and Securing Relationships on Public Networks
     link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
