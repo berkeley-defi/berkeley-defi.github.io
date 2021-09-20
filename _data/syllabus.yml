@@ -85,7 +85,7 @@
   - name: Market Microstructure
     file: Biais_Glosten_spatt.pdf
 - date: 09/23
-  topic: Stablecoins
+  topic: Stablecoins (Guest Lecture by Ariah Klages-Mundt)
   youtube_premiere: https://youtu.be/ho_6G_rsuUM
   slides:
   - name: Stablecoins
@@ -116,6 +116,17 @@
     file: Uniswap v3 Core.pdf
 - date: 10/07
   topic: Decentralized Lending
+  reading:
+  - name: A Study of DeFi Liquidations
+    file: A Study of DeFi Liquidations.pdf
+  - name: Attacking DeFi With Flash Loans
+    file: Attacking DeFi With Flash Loans.pdf
+  - name: DeFi Protocols for Loanable Funds
+    file: DeFi Protocols for Loanable Funds.pdf
+  - name: Liquidations
+    file: Liquidations.pdf
+  - name: The Decentralized Financial Crisis
+    file: The Decentralized Financial Crisis.pdf
 - date: 10/14
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
 - date: 10/21
