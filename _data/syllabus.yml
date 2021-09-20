@@ -103,6 +103,17 @@
     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 09/30
   topic: DEX
+  reading:
+  - name: Analysis of Uniswap Markets
+    file: Analysis of Uniswap Markets.pdf
+  - name: DEX with AMM Protocols
+    file: DEX with AMM Protocols.pdf
+  - name: StableSwap
+    file: StableSwap.pdf
+  - name: Theory of AMM in DeFi
+    file: Theory of AMM in DeFi.pdf
+  - name: Uniswap v3 Core Whitepaper
+    file: Uniswap v3 Core.pdf
 - date: 10/07
   topic: Decentralized Lending
 - date: 10/14
