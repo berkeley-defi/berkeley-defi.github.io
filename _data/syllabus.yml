@@ -116,28 +116,10 @@
     file: Uniswap v3 Core.pdf
 - date: 10/07
   topic: Decentralized Lending
-  reading:
-  - name: A Study of DeFi Liquidations
-    file: A Study of DeFi Liquidations.pdf
-  - name: Attacking DeFi With Flash Loans
-    file: Attacking DeFi With Flash Loans.pdf
-  - name: DeFi Protocols for Loanable Funds
-    file: DeFi Protocols for Loanable Funds.pdf
-  - name: Liquidations
-    file: Liquidations.pdf
-  - name: The Decentralized Financial Crisis
-    file: The Decentralized Financial Crisis.pdf
 - date: 10/14
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
 - date: 10/21
   topic: Oracles
-  reading: 
-  - name: An Authenticated Data Feed for Smart Contracts
-    file: An Authenticated Data Feed for Smart Contracts.pdf
-  - name: Chainlink 2.0
-    file: Chainlink 2.0.pdf
-  - name: Liberating Web Data Using Decentralized Oracles
-    file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/28
   topic: Privacy in DeFi; Auditable Privacy; ZKP
 - date: 11/04
