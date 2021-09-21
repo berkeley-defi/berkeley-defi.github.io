@@ -86,6 +86,9 @@
     file: Biais_Glosten_spatt.pdf
 - date: 09/23
   topic: DEX
+  slides:
+  - name: DEX
+    file: Lecture 5 Slides.pdf
   reading:
   - name: Analysis of Uniswap Markets
     file: Analysis of Uniswap Markets.pdf
