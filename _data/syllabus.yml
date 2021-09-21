@@ -98,6 +98,8 @@
   - name: Uniswap v3 Core Whitepaper
     file: Uniswap v3 Core.pdf
 - date: 09/30
+  topic: Decentralized Lending
+- date: 10/07
   topic: Stablecoins (Guest Lecture by Ariah Klages-Mundt)
   youtube_premiere: https://youtu.be/ho_6G_rsuUM
   reading:
@@ -111,8 +113,7 @@
     file: While Stability Lasts.pdf
   - name: Unique Equilibrium in Currency Attacks
     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
-- date: 10/07
-  topic: Decentralized Lending
+
 - date: 10/14
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
 - date: 10/21
