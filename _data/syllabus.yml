@@ -87,9 +87,6 @@
 - date: 09/23
   topic: Stablecoins (Guest Lecture by Ariah Klages-Mundt)
   youtube_premiere: https://youtu.be/ho_6G_rsuUM
-  slides:
-  - name: Stablecoins
-    file: Lecture 5 Slides.pdf
   reading:
   - name: (In)Stability for the Blockchain
     file: (In)Stability for the Blockchain.pdf
