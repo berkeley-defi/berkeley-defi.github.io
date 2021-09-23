@@ -90,6 +90,9 @@
   topic: DEX
   youtube_premiere: https://www.youtube.com/watch?v=TdRjVLIGUDU
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
+  quiz:
+  - name: Quiz 5
+    link: https://forms.gle/SazaUz2owYPFijrF6
   slides:
   - name: DEX
     file: Lecture 5 Slides.pdf
