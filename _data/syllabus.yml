@@ -118,9 +118,9 @@
   - name: Unique Equilibrium in Currency Attacks
     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 10/14
-  topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
-- date: 10/21
   topic: Oracles
+- date: 10/21
+  topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
 - date: 10/28
   topic: Privacy in DeFi; Auditable Privacy; ZKP
 - date: 11/04
