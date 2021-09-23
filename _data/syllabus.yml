@@ -86,6 +86,7 @@
     file: Biais_Glosten_spatt.pdf
 - date: 09/23
   topic: DEX
+  youtube_premiere: https://www.youtube.com/watch?v=TdRjVLIGUDU
   slides:
   - name: DEX
     file: Lecture 5 Slides.pdf
@@ -104,7 +105,6 @@
   topic: Decentralized Lending
 - date: 10/07
   topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
-  youtube_premiere: https://youtu.be/DvwNrZmpHN8
   reading:
   - name: (In)Stability for the Blockchain
     file: (In)Stability for the Blockchain.pdf
