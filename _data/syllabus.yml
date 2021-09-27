@@ -109,6 +109,9 @@
     file: Uniswap v3 Core.pdf
 - date: 09/30
   topic: Decentralized Lending
+  slides:
+  - name: Decentralized Lending
+    file: Lecture 6 Slides.pdf
 - date: 10/07
   topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
   reading:
