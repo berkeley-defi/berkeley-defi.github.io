@@ -116,13 +116,13 @@
   - name: A Study of DeFi Liquidations
     file: A Study of DeFi Liquidations.pdf
   - name: Attacking DeFi with Flash Loans
-    file: Attacking DeFi with Flash Loans.pdf
+    file: Attacking DeFi With Flash Loans.pdf
   - name: DeFi Protocols for Loanable Funds
     file: DeFi Protocols for Loanable Funds.pdf
   - name: Liquidations
     file: Liquidations.pdf
-  - name: The Decentralized Finance Crisis
-    file: The Decentralized Finance Crisis.pdf
+  - name: The Decentralized Financial Crisis
+    file: The Decentralized Financial Crisis.pdf
 - date: 10/07
   topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
   reading:
