@@ -96,6 +96,8 @@
   slides:
   - name: DEX
     file: Updated Lecture 5 Slides.pdf
+  - name: Dan Robinson Lecture
+    file: Dan Robinson Lecture Slides.pdf
   reading:
   - name: Analysis of Uniswap Markets
     file: Analysis of Uniswap Markets.pdf
