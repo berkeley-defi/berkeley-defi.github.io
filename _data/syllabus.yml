@@ -111,6 +111,10 @@
     file: Uniswap v3 Core.pdf
 - date: 09/30
   topic: Decentralized Lending
+  youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
+  quiz:
+    name: Quiz 6
+    link: https://forms.gle/co6TuqqVAKuosD7g6
   slides:
   - name: Decentralized Lending
     file: Lecture 6 Slides.pdf
