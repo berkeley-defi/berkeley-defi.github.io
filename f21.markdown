@@ -105,9 +105,9 @@ The proposal should be within **2 pages**. The milestone report should be within
 ### Timeline
 
 | Group formation | 9/13 |
-| Lab 1 out | 10/01 |
+| Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
 | Project proposal | 10/04 |
-| Lab 1 due | 10/11 |
+| Lab 1 due | 10/12 |
 | Project milestone | 11/01 |
 | Lab 2 out | 11/02 |
 | Lab 2 due | 11/22 |
