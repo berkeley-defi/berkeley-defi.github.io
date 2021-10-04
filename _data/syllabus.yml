@@ -153,17 +153,17 @@
   topic: Decentralized Identities
 - date: 11/11
   topic: No Class (Veterans Day)
-- date: 11/18
   quiz:
     name: 
-    link: 
+    link:
+- date: 11/18
   topic: DeFi Security I
 - date: 11/25
   topic: No Class (Thanksgiving)
-- date: 12/02
   quiz:
     name: 
     link: 
+- date: 12/02 
   topic: DeFi Security II
 - date: 12/09
   topic: Regulations and Legal Frameworks
