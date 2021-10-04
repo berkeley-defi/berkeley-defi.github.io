@@ -154,10 +154,16 @@
 - date: 11/11
   topic: No Class (Veterans Day)
 - date: 11/18
+  quiz:
+    name: 
+    link: 
   topic: DeFi Security I
 - date: 11/25
   topic: No Class (Thanksgiving)
 - date: 12/02
+  quiz:
+    name: 
+    link: 
   topic: DeFi Security II
 - date: 12/09
   topic: Regulations and Legal Frameworks
