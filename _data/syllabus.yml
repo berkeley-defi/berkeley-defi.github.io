@@ -133,6 +133,11 @@
 - date: 10/07
   topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
   youtube_premiere: https://youtu.be/G6fFHfhW2O0
+  slides:
+  - name: Stablecoins
+    file: Lecture 7 Intro Slides.pdf
+  - name: Guest Speaker Ariah Klages-Mundt
+    file: Lecture 7 Slides.pdf
   reading:
   - name: (In)Stability for the Blockchain
     file: (In)Stability for the Blockchain.pdf
