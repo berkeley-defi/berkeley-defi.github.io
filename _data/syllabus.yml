@@ -133,6 +133,9 @@
 - date: 10/07
   topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
   youtube_premiere: https://youtu.be/G6fFHfhW2O0
+  quiz:
+    name: Quiz 7
+    link: https://forms.gle/pzzcRJF8M2tRWRV4A
   slides:
   - name: Stablecoins
     file: Lecture 7 Introduction Slides.pdf
