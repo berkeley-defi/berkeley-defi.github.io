@@ -119,6 +119,8 @@
   slides:
   - name: Decentralized Lending
     file: Lecture 6 Slides.pdf
+  - name: Lecture 6 Recap
+    file: Lecture 6 Recap Slides.pdf
   reading:
   - name: A Study of DeFi Liquidations
     file: A Study of DeFi Liquidations.pdf
