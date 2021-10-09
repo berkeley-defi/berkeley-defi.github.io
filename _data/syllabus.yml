@@ -157,6 +157,16 @@
     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 10/14
   topic: Oracles
+  slides:
+  - name: Oracles
+    file: COMPRESSED Oracle Lecture—DeFi course.pdf
+  reading:
+  - name: An Authenticated Data Feed for Smart Contracts
+    file: An Authenticated Data Feed for Smart Contracts.pdf
+  - name: Chainlink 2.0
+    file: Chainlink 2.0.pdf
+  - name: Liberating Web Data Using Decentralized Oracles
+    file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/21
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
 - date: 10/28
