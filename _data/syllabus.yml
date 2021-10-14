@@ -140,9 +140,9 @@
     name: Quiz 7
     link: https://forms.gle/pzzcRJF8M2tRWRV4A
   slides:
-  - name: Stablecoins
+  - name: Stablecoins I
     file: Lecture 7 Introduction Slides.pdf
-  - name: Guest Speaker Ariah Klages-Mundt
+  - name: Stablecoins II (Guest speaker – Ariah Klages-Mundt (Cornell))
     file: Lecture 7 Slides.pdf
   reading:
   - name: (In)Stability for the Blockchain
