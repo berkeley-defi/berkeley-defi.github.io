@@ -133,7 +133,7 @@
   - name: The Decentralized Financial Crisis
     file: The Decentralized Financial Crisis.pdf
 - date: 10/07
-  topic: Stablecoins  
+  topic: Stablecoins (Guest Speaker Ariah Klages-Mundt)  
   youtube_premiere: https://youtu.be/G6fFHfhW2O0
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopE30_TvN5cNQwEpByGpRm2
   quiz:
@@ -156,7 +156,7 @@
   - name: Unique Equilibrium in Currency Attacks
     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 10/14
-  topic: Oracles
+  topic: Oracles (Guest Speaker Ari Juels)
   youtube_premiere: https://youtu.be/vFcW18ZpPZ4
   quiz:
     name: Quiz 8
