@@ -177,6 +177,15 @@
   slides:
   - name: Derivatives
     file: Lecture 9 Slides.pdf
+  reading:
+  - name: Exchange-Traded Funds
+    file: Exchange-Traded Funds.pdf
+  - name: The Economics of Central Clearing
+    file: The Economics of Central Clearing.pdf
+  - name: Margin Account Requirements
+    link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
+  - name: US Repo Fact Sheet (2021)
+    file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 10/28
   topic: Privacy in DeFi; Auditable Privacy; ZKP
 - date: 11/04
