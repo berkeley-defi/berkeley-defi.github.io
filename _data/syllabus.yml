@@ -174,7 +174,7 @@
     file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/21
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
-slides:
+  slides:
   - name: Derivatives
     file: Lecture 9 Slides.pdf
 - date: 10/28
