@@ -175,8 +175,10 @@
 - date: 10/21
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
   slides:
-  - name: Derivatives
+  - name: Derivatives I
     file: Lecture 9 Slides.pdf
+  - name: Derivatives II
+    file: Lecture 9 Slides Arthur.pdf
   reading:
   - name: Exchange-Traded Funds
     file: Exchange-Traded Funds.pdf
