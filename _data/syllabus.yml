@@ -175,6 +175,9 @@
 - date: 10/21
   topic: Synthetic And Derivatives; Portfolio Management; Insurance; Information and Data Markets
   youtube_premiere: https://youtu.be/OCXiXO3h4KE
+  quiz:
+    name: Quiz 9
+    link: https://forms.gle/DZsDFbBrmdqQEetL6
   slides:
   - name: Derivatives I
     file: Lecture 9 Slides.pdf
