@@ -179,9 +179,9 @@
     name: Quiz 9
     link: https://forms.gle/DZsDFbBrmdqQEetL6
   slides:
-  - name: Derivatives I
+  - name: Synthetics And Derivatives I
     file: Lecture 9 Slides.pdf
-  - name: Derivatives II
+  - name: Synthetics And Derivatives II
     file: Lecture 9 Slides Arthur.pdf
   reading:
   - name: Exchange-Traded Funds
