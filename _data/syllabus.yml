@@ -208,7 +208,7 @@
   - name: Tornado Cash Whitepaper
     file: Tornado Cash Whitepaper.pdf
   - name: Confidential Transactions
-    file: https://elementsproject.org/features/confidential-transactions/investigation
+    link: https://elementsproject.org/features/confidential-transactions/investigation
 - date: 11/04
   topic: Decentralized Identities
 - date: 11/11
