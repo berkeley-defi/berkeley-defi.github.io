@@ -199,8 +199,8 @@
   - name: Privacy in DeFi
     file: Lecture 10 Slides.pdf
   reading:
-  - name: CS251: D
-    link: 
+  - name: CS251: Cryptocurrencies and Blockchain Technologies
+    link: https://cs251.stanford.edu
   - name: A Fistful of Bitcoins
     file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
   - name: Succinct Non-Interactive Arguments
