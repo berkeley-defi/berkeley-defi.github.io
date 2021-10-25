@@ -195,6 +195,9 @@
     file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 10/28
   topic: Privacy in DeFi; Auditable Privacy; ZKP
+  slides:
+  - name: Privacy in DeFi
+    file: Lecture 10 Slides.pdf
 - date: 11/04
   topic: Decentralized Identities
 - date: 11/11
