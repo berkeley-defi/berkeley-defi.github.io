@@ -196,6 +196,9 @@
 - date: 10/28
   topic: Privacy on the Blockchain; Auditable Privacy; ZKP
   youtube_premiere: https://youtu.be/H3GmsxRU1Kw
+  quiz:
+    name: Quiz 10
+    link: https://forms.gle/Pxd8tETKZfSkiRzs6
   slides:
   - name: Privacy on the Blockchain
     file: NEW Lecture 10 Slides.pdf
