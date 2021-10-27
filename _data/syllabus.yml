@@ -194,10 +194,10 @@
   - name: US Repo Fact Sheet (2021)
     file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 10/28
-  topic: Privacy in DeFi; Auditable Privacy; ZKP
+  topic: Privacy on the Blockchain; Auditable Privacy; ZKP
   youtube_premiere: https://youtu.be/H3GmsxRU1Kw
   slides:
-  - name: Privacy in DeFi
+  - name: Privacy on the Blockchain
     file: NEW Lecture 10 Slides.pdf
   reading:
   - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
