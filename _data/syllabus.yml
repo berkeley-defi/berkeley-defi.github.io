@@ -194,7 +194,7 @@
   - name: US Repo Fact Sheet (2021)
     file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 10/28
-  topic: Privacy on the Blockchain; Auditable Privacy; ZKP
+  topic: Privacy on the Blockchain
   youtube_premiere: https://youtu.be/H3GmsxRU1Kw
   quiz:
     name: Quiz 10
