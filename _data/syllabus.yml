@@ -219,6 +219,17 @@
   slides:
   - name: Decentralized Identities
     file: Defi MOOC Fa21 - Decentralized Identity.pptx.pdf
+  reading:
+  - name: Proof of Person
+    file: Proof of Person.pdf
+  - name: CanDID
+    file: CanDID.pdf
+  - name: IPFS
+    file: IPFS.pdf
+  - name: Axioms of Web Architecture
+    link: https://www.w3.org/DesignIssues/Axioms.html#uri
+  - name: Quadratic Payments
+    link: https://vitalik.ca/general/2019/12/07/quadratic.html
 - date: 11/11
   topic: No Class (Veterans Day)
   quiz:
