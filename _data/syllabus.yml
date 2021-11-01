@@ -216,6 +216,9 @@
     link: https://elementsproject.org/features/confidential-transactions/investigation
 - date: 11/04
   topic: Decentralized Identities
+  slides:
+  - name: Decentralized Identities
+    file: Defi MOOC Fa21 - Decentralized Identity.pptx.pdf
 - date: 11/11
   topic: No Class (Veterans Day)
   quiz:
