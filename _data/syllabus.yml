@@ -217,6 +217,9 @@
 - date: 11/04
   topic: Decentralized Identities
   youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
+  quiz:
+    name: Quiz 11
+    link: https://forms.gle/7VmLV72X81JykSDa9
   slides:
   - name: Decentralized Identities
     file: Defi MOOC Fa21 - Decentralized Identity.pptx.pdf
