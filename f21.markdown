@@ -46,7 +46,7 @@ redirect_from:
 
 ## TAs
 
-Vivek Nair; Nate Pola; Xiaoyuan Liu
+Vivek Nair; Nate Pola; Neil Giridharan; Xiaoyuan Liu
 
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
