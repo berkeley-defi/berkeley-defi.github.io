@@ -242,6 +242,7 @@
     link:
 - date: 11/18
   topic: Practical Smart Contract Security (Guest Speaker Sam Sun)
+  youtube_premiere: https://youtu.be/pJKy5HWuFK8
   slides:
   - name: Practical Smart Contract Security
     file: Lecture 12 Slides.pdf
