@@ -244,6 +244,9 @@
   topic: Practical Smart Contract Security (Guest Speaker Sam Sun)
   youtube_premiere: https://youtu.be/pJKy5HWuFK8
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
+  quiz:
+    name: Quiz 12
+    link: https://forms.gle/3QBTf3oNPTyHmkc97
   slides:
   - name: Practical Smart Contract Security
     file: Lecture 12 Slides.pdf
