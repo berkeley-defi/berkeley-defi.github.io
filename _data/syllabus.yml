@@ -263,5 +263,16 @@
   slides:
   - name: Smart Contract Security
     file: Lec 13 Slides.pdf
+  reading:
+  - name: Detecting and Quantifying Wash Trading
+    file: Detecting and Quantifying Wash Trading.pdf
+  - name: Flash Boys
+    file: Flash Boys.pdf
+  - name: High Frequency Trading
+    file: High Frequency Trading.pdf
+  - name: Profit-Generating Transactions
+    file: Profit-Generating Transactions.pdf
+  - name: Quantifying Blockchain Abstractable Value
+    file: Quantifying Blockchain Abstractable Value.pdf
 - date: 12/09
   topic: Regulations and Legal Frameworks
