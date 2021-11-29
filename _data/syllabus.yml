@@ -260,5 +260,8 @@
   quiz:
     name: Quiz 13
     link: https://forms.gle/maHzNGapcm9okRDD8
+  slides:
+  - name: Smart Contract Security
+    file: Lec 13 Slides.pdf
 - date: 12/09
   topic: Regulations and Legal Frameworks
