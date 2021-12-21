@@ -62,9 +62,13 @@ All times are in PST. There will be no office hours until the week of September 
 ## Enrollment and Participation
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
 
-## Syllabus (subject to change)
+## Course syllabus
 
 <iframe id="syllabus" src="/f21_syllabus" width="100%" height="100" frameborder=0> </iframe>
+
+## Fireside chat series: future of DeFi
+
+<iframe id="fireside" src="/f21_fireside" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -78,6 +82,7 @@ For graduate students, please register for CS294-177; for undergraduate students
 
   window.onload = function() {
       setIframeHeight(document.getElementById('syllabus'));
+      setIframeHeight(document.getElementById('fireside'));
   };
 </script>
 
