@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Decentralized Finance"
-permalink: /f21
+permalink: /f22
+redirect_from:
+  - /
 ---
 
 <!-- # Decentralized Finance -->
@@ -49,8 +51,7 @@ Vivek Nair; Nate Pola; Neil Giridharan; Xiaoyuan Liu
 ## Class Time
 Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
 
-## Office Hour
-All times are in PST. There will be no office hours until the week of September 6th.
+## Office Hours
 
 | Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
 | Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
@@ -59,6 +60,12 @@ All times are in PST. There will be no office hours until the week of September 
 
 ## Enrollment and Participation
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
+
+This is a variable-unit course. The requirements for each number of units are listed below.
+
+- 2 units: attend lectures + do labs + weekly quizzes
+- 3 units: above + complete a class project & project report
+- 4 units: above + class project should include significant implementation
 
 ## Course syllabus
 
