@@ -2,15 +2,15 @@
 layout: default
 title: "Decentralized Finance"
 permalink: /f22
-redirect_from:
-  - /
 ---
 
 <!-- # Decentralized Finance -->
 
 # CS294-177/CS194-177/PHDBA 297T.1/MFE 230T.3: Decentralized Finance
 
+<!--
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
+-->
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
 
@@ -46,17 +46,23 @@ redirect_from:
 
 ## TAs
 
-Vivek Nair; Nate Pola; Neil Giridharan; Xiaoyuan Liu
+Vivek Nair
+<!-- Nate Pola; Neil Giridharan; Xiaoyuan Liu -->
 
 ## Class Time
-Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
+To be determined.
+
+<!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
 ## Office Hours
+To be determined.
 
+<!--
 | Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
 | Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
 | Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
+-->
 
 ## Enrollment and Participation
 For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
@@ -69,11 +75,13 @@ This is a variable-unit course. The requirements for each number of units are li
 
 ## Course syllabus
 
-<iframe id="syllabus" src="/f21_syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe id="syllabus" src="/f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
+<!--
 ## Fireside chat series: the Future of DeFi
 
 <iframe id="fireside" src="/f21_fireside" width="100%" height="100" frameborder=0> </iframe>
+-->
 
 <script>
   function setIframeHeight(iframe) {
@@ -110,10 +118,14 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish.
 
+<!--
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
+-->
 
 ### Timeline
+To be determined.
 
+<!--
 | Group formation | 9/13 |
 | Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
 | Project proposal | 10/04 |
@@ -123,6 +135,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Lab 2 due | 11/22 |
 | Project presentation | 12/02 |
 | Project final report | 12/13 |
+-->
 
 ## Course Description
 

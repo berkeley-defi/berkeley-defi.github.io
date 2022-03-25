@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: "Decentralized Finance"
-permalink: /f21_syllabus
+permalink: /f22_syllabus
 ---
 
 <table style="table-layout: fixed; font-size: 88%;">
@@ -12,7 +12,7 @@ permalink: /f21_syllabus
       <th style="width: 30%;"> Recommended reading </th>
   </thead>
   <tbody>
-    {% for row in site.data.f21syllabus %}
+    {% for row in site.data.f22syllabus %}
     <tr>
       <td> {{ row.date }} </td>
       <td>

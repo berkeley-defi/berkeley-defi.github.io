@@ -10,10 +10,10 @@ permalink: /f21_fireside
       <th style="width: 80%;">Topic </th>
   </thead>
   <tbody>
-    {% for row in site.data.fireside %}
+    {% for row in site.data.f21fireside %}
     <tr>
-      <td> 
-        {% if row.speaker %} 
+      <td>
+        {% if row.speaker %}
           {{row.speaker}}
         {% else %}
           TBD
@@ -29,4 +29,3 @@ permalink: /f21_fireside
     {% endfor %}
   </tbody>
 </table>
-
