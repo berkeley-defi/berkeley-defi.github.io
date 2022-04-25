@@ -57,8 +57,8 @@ Tuesday, 10:00 AM - 11:59 AM <br>
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
-## Office hours
-To be determined.
+<!-- ## Office Hours
+To be determined. -->
 
 <!--
 | Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
@@ -150,7 +150,7 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
-### Group project
+### Group Project
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish.
 
@@ -158,7 +158,7 @@ Students will be completing an open-ended research project culminating in a pres
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 -->
 
-### Assignment timeline
+### Assignment Timeline
 
 | Assignment            | Released  | Deadline
 | :-- | :-- | :--
@@ -172,7 +172,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Project presentation  | 11/22     | 12/05
 | Project final report  | 12/06     | 12/12
 
-## Course description
+## Course Description
 
 The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
 
