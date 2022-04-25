@@ -2,6 +2,8 @@
 layout: default
 title: "Decentralized Finance"
 permalink: /f22
+redirect_from:
+  - /
 ---
 
 <!-- # Decentralized Finance -->
@@ -49,12 +51,13 @@ permalink: /f22
 Vivek Nair
 <!-- Nate Pola; Neil Giridharan; Xiaoyuan Liu -->
 
-## Class Time
-To be determined.
+## Lectures
+Tuesday, 10:00 AM - 11:59 AM <br>
+438 Soda Hall
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
-## Office Hours
+## Office hours
 To be determined.
 
 <!--
@@ -73,11 +76,11 @@ This is a variable-unit course. The requirements for each number of units are li
 - 3 units: above + complete a class project & project report
 - 4 units: above + class project should include significant implementation
 
+<!--
 ## Course syllabus
 
 <iframe id="syllabus" src="/f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
-<!--
 ## Fireside chat series: the Future of DeFi
 
 <iframe id="fireside" src="/f21_fireside" width="100%" height="100" frameborder=0> </iframe>
@@ -100,17 +103,50 @@ This is a variable-unit course. The requirements for each number of units are li
 </script>
 
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi.
+The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students student will participate in a group project (3-5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
-| Class participation | 10% |
-| Weekly Quizzes | 10% |
-| Lab 1 | 5% |
-| Lab 2 | 15% |
-| Project proposal | 5% |
-| Project milestone | 15% |
-| Project presentation and final report | 40% |
+<table>
+  <tr>
+    <td style="vertical-align: top">
+      <b>2 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>25%</td></tr>
+        <tr><td>Quizzes</td><td>25%</td></tr>
+        <tr><td>Assignments</td><td>14%</td></tr>
+        <tr><td>Labs</td><td>36%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>3 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Assignments</td><td>5%</td></tr>
+        <tr><td>Labs</td><td>15%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>15%</td></tr>
+        <tr><td>… Presentation</td><td>15%</td></tr>
+        <tr><td>… Report</td><td>25%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>4 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Assignments</td><td>5%</td></tr>
+        <tr><td>Labs</td><td>15%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>10%</td></tr>
+        <tr><td>… Presentation</td><td>10%</td></tr>
+        <tr><td>… Report</td><td>20%</td></tr>
+        <tr><td>… Implementation</td><td>15%</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### Quiz
+### Quizzes
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
@@ -122,22 +158,21 @@ Students will be completing an open-ended research project culminating in a pres
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 -->
 
-### Timeline
-To be determined.
+### Assignment timeline
 
-<!--
-| Group formation | 9/13 |
-| Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
-| Project proposal | 10/04 |
-| Lab 1 due | 10/12 |
-| Project milestone | 11/01 |
-| Lab 2 out ([link](https://github.com/KaihuaQin/defi-mooc-lab2)) | 11/02 |
-| Lab 2 due | 11/22 |
-| Project presentation | 12/02 |
-| Project final report | 12/13 |
--->
+| Assignment            | Released  | Deadline
+| :-- | :-- | :--
+| Group formation       | 8/30      | 9/12
+| Project proposal      | 9/13      | 10/03
+| Assignment 1          | 10/04     | 10/10
+| Assignment 2          | 10/18     | 10/24
+| Project milestone     | 10/25     | 10/31
+| Lab 1                 | 11/01     | 11/07
+| Lab 2                 | 11/08     | 11/21
+| Project presentation  | 11/22     | 12/05
+| Project final report  | 12/06     | 12/12
 
-## Course Description
+## Course description
 
 The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
 

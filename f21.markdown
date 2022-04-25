@@ -2,8 +2,6 @@
 layout: default
 title: "Decentralized Finance"
 permalink: /f21
-redirect_from:
-  - /
 ---
 
 <!-- # Decentralized Finance -->
