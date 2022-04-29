@@ -8,9 +8,9 @@ redirect_from:
 
 <!-- # Decentralized Finance -->
 
-# Decentralized Finance
-###### CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
-
+<center>
+CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
+</center><p></p>
 
 <!--
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
@@ -71,7 +71,13 @@ To be determined. -->
 -->
 
 ## Enrollment and Participation
-For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. <!-- Please join our [edstem](https://edstem.org/us/courses/7861/discussion/). -->
+CS undergraduate students: please register for CS194-177.<br>
+CS graduate students: please register for CS294-177.<br>
+MBA students: please register for MBA 237.2.<br>
+EWMBA students: please register for EWMBA 237.2.<br>
+MFE students: please register for MFE 230T.3.<br>
+
+ <!-- Please join our [edstem](https://edstem.org/us/courses/7861/discussion/). -->
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
