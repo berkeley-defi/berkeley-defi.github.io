@@ -8,7 +8,9 @@ redirect_from:
 
 <!-- # Decentralized Finance -->
 
-# CS294-177/CS194-177/MBA 237.2/EWMBA 237.2/MFE 230T.3: Decentralized Finance
+# Decentralized Finance
+###### CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
+
 
 <!--
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
