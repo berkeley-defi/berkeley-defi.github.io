@@ -85,6 +85,8 @@ This is a variable-unit course. The requirements for each number of units are li
 - 3 units: above + complete a class project & project report
 - 4 units: above + class project should include significant implementation
 
+MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students will all be in the 3-credit version, but MBA/EWMBA students will not be required to complete programming assignments (labs).
+
 ## Course syllabus
 <iframe id="syllabus" src="/f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
@@ -111,7 +113,9 @@ This is a variable-unit course. The requirements for each number of units are li
 </script>
 
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students student will participate in a group project (3-5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (3-5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+
+Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below.
 
 <table>
   <tr>
