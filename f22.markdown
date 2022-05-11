@@ -87,6 +87,8 @@ This is a variable-unit course. The requirements for each number of units are li
 
 MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students will all be in the 3-credit version, but MBA/EWMBA students will not be required to complete programming assignments (labs).
 
+If you need a permission code to join the course, please fill out [this form](https://forms.gle/7mGPbhVh77nm3mSr5) and we'll get back to you as soon as possible.
+
 ## Course syllabus
 <iframe id="syllabus" src="/f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
